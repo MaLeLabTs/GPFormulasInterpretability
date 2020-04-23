@@ -21,5 +21,5 @@ Such a script requires the datasets folder and takes as input:
 
 1. the name of the dataset
 1. the number of runs
-1. (otpional) the model to use for interpretability. If you specify an 'm' the script execute experiemnts with out model, otherwise with the nodes count based model.
+1. (otpional) the model to use for interpretability. If you specify an 'm' the script execute experiments with out model, otherwise with the nodes count based model.
 
