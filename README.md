@@ -13,3 +13,13 @@ You can find:
 * the [results](gp-results/) of the experiments with pyNSGP
 
 For the code of GP part, you can refer to [this](https://github.com/marcovirgolin/pyNSGP) repository.
+
+### How to run the experiment
+
+In order to replicate our experiment, you can use the [run.py](run.py) script.
+Such a script requires the datasets folder and takes as input:
+
+1. the name of the dataset
+1. the number of runs
+1. (otpional) the model to use for interpretability. If you specify an 'm' the script execute experiemnts with out model, otherwise with the nodes count based model.
+
