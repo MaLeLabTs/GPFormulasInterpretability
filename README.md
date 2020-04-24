@@ -14,7 +14,7 @@ You can find:
 
 For the code of GP part, you can refer to [this](https://github.com/marcovirgolin/pyNSGP) repository.
 
-### How to run the experiment
+### How to reproduce the experiments
 
 In order to replicate our experiment, you can use the [run.py](run.py) script.
 Such a script requires the datasets folder and takes as input:
@@ -23,3 +23,8 @@ Such a script requires the datasets folder and takes as input:
 1. the number of runs
 1. (otpional) the model to use for interpretability. If you specify an 'm' the script execute experiments with out model, otherwise with the nodes count based model.
 
+
+### Reference
+
+If you use our code, please support our research by citing the related [paper](https://arxiv.org/pdf/2004.11170.pdf):
+> M. Virgolin, A.D.Lorenzo, E. Medvet, F. Randone. "Learning a Formula of Interpretability to Learn Interpretable Formulas".  arXiv preprint arXiv:2004.11170 (2020)
